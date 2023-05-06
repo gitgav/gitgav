@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on developming my life
+- 🌱 I’m currently learning DevOps practices
+- 💬 Ask me about anything
+- 📫 How to reach me: @gavcheg
+
 <!--
 **gitgav/gitgav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
